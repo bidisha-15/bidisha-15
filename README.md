@@ -1,5 +1,4 @@
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Bidisha%20Banik&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Bidisha%20Banik&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+this+is+Bidisha!;Welcome+to+my+GitHub+Profile;Passionate+Learner+and+Coder;Aspiring+Software+Developer;Feel+free+to+explore+my+work!;Thanks+for+visiting+💙" alt="Typing SVG" /></a>
