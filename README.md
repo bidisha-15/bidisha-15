@@ -57,9 +57,8 @@ Reach-me-at: bidishaabanik@gmail.com
 
 ---
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Thanks%20for%20Visiting!&section=footer" />
-</p>
-```
+![GithubSnake](https://github.com/halcyon-past/halcyon-past/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
+
+
 
 
