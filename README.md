@@ -1,8 +1,12 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Bidisha%20Banik&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+<div align="center">
+  <a href="https://github.com/Akshay090/svg-banners">
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bidisha%20Banik&width=500&height=150" alt="Bidisha Banik SVG Banner">
+  </a>
+  <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello;Welcome+to+my+GitHub+Profile;Passionate+Learner+and+Coder;Aspiring+Software+Developer;Feel+free+to+explore+my+work!;Thanks+for+visiting+💙" alt="Typing SVG" /></a>
+</div>
+</div>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+this+is+Bidisha!;Welcome+to+my+GitHub+Profile;Passionate+Learner+and+Coder;Aspiring+Software+Developer;Feel+free+to+explore+my+work!;Thanks+for+visiting+💙" alt="Typing SVG" /></a>
-</p>
 
 ![Divider](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
