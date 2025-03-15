@@ -55,12 +55,6 @@ Reach-me-at: bidishaabanik@gmail.com
 
 ---
 
-<h2 align="left">📈 GitHub Stats <img src="https://media.tenor.com/TQeOcxHXBqsAAAAi/chart.gif" width="30px"></h2>
-
-![Bidisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidisha-15&show_icons=true&theme=radical)
-
----
-
 ![GithubSnake](https://github.com/halcyon-past/halcyon-past/blob/output/github-snake.svg%20dist/github-snake-dark.svg)
 
 
