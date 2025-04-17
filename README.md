@@ -3,7 +3,7 @@
     <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Bidisha%20Banik&width=500&height=150" alt="Bidisha Banik SVG Banner">
   </a>
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello;Welcome+to+my+GitHub+Profile;Passionate+Learner+and+Coder;Aspiring+Software+Developer;Feel+free+to+explore+my+work!;Thanks+for+visiting+💙" alt="Typing SVG" /></a>
+font=Fira+Code&pause=1000&width=435&lines=Hello;Welcome+to+my+GitHub+Profile;Passionate+Learner+and+Coder;Aspiring+Software+Developer;Feel+free+to+explore+my+work!;Thanks+for+visiting+💙" alt="Typing SVG" /></a>
 </div>
 </div>
 
